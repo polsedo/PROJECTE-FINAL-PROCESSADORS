@@ -472,7 +472,7 @@ void loop()
 ```
 + _WEBSERVER:_
 
-![](CapturaWEB.jpg)
+![](CapturaWEB.JPG)
 + _MONTAJE:_
 
 ![](Montaje.jpeg)
